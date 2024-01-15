@@ -5,3 +5,5 @@ Groupe fictif pour le développement fictif d'une application fictive
 
 ## Clarification des donnés
 babebibobu
+# je suis le meilleur pour manier l'épée
+code fictif de dartagnan
